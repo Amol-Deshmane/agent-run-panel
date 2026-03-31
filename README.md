@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Agent Run Panel
 
 A real-time UI for visualizing multi-agent AI workflows — built as part of the JcurveIQ Frontend Engineer assessment.
@@ -92,3 +93,6 @@ import data from "./mock/fixtures/run_error.json";
 The most challenging part was designing a UI that makes **parallel execution and cancellation states intuitive without overwhelming the user**.
 
 One improvement to the event schema would be adding **explicit retry identifiers** to better track retry attempts in the UI.
+=======
+# agent-run-panel
+>>>>>>> 6ac76c9776ee6bbc266f186cf09210ca2eb23e02
